@@ -1,6 +1,5 @@
 # Professional-Portfolio-DataScience-Police-Fatalily-Analysis-USA
-
- USA Police Fatality Analysis
+Project: USA Police Fatality Analysis
 
 Category: Python Data Science
 
